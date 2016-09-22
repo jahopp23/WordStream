@@ -1,0 +1,420 @@
+/*Wordstream*/
+
+body{
+	margin:25px;
+}
+
+
+.Word{ 
+
+	color: grey;
+	display: inline-block;
+	font-family: 'arial';
+	font-size: 350%;
+	margin-left: 10px
+
+
+
+	 }
+
+.Stream{ 
+
+	color: #8bbad3;
+	display: inline-block;
+	font-family: 'arial';
+	font-size: 350%;
+
+	 }
+
+.wave{ 
+
+	display: inline-block; 
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+#headbox{
+
+	
+	border-width: 10px;
+	width: 550px;
+	height: 100px;
+}
+
+#toplinks ul li {
+
+
+display: inline-block;
+font-family: 'arial';
+text-decoration: none;
+
+
+
+
+}
+
+#toplinks {
+
+	width: 550px;
+	height: 75px;
+	margin-left: 900px;
+	display: inline-block;
+	font-size: 100%;
+	vertical-align: top;
+	text-decoration: none;
+	
+
+
+}
+
+#toplinks ul { 
+
+	border-style: inset;
+	border-radius: 10px;
+	border-width: 2px;
+	height: 35px;
+	width: 500px;
+	display: inline-block;
+	text-decoration: none;
+	background: #8BBAD3;
+	vertical-align: top;
+
+
+
+	 }
+
+#toplinks a { 
+
+	text-decoration: none; 
+	color: black;}
+
+
+#middlehead{
+
+		background: #147bbf;
+		height: 80px;
+		width: auto;
+		margin-left: 0px;
+		margin-top: 50px;
+		border-style: solid;
+	
+}
+
+#internetmarketing{
+
+	color: white;
+	font-family: 'arial';
+	display: inline-block;
+	margin-left: 100px;
+	font-style: italic;
+}
+
+
+
+
+
+
+
+#sidebar{ 
+
+	background: white;
+	height: 1000px;
+	width: 300px;
+	display: inline-block;
+
+
+ }
+
+ #container{
+
+ 	background: white;
+ 	height: 1000px;
+ 	width: 800px;
+ 	line-height: 30px;
+ 	
+ 	display: inline-block;
+ 	vertical-align: top;
+ }
+
+h4{ 
+	display: inline-block;
+	font-family: 'arial';
+
+	 }
+
+
+#starttoday{ 
+
+	width: 1000px;
+	height: 300px;
+	border-style: solid; 
+	border-color: #8bbad3;
+	border-width: 5px;
+	background: white;
+
+}
+
+#flag{
+
+	width: 125px;
+}
+
+#starttodayhead{
+
+	display: inline-block;
+	vertical-align: top;
+	font-size: 125%;
+	margin-left: 50px;
+	width: 700px;
+}
+
+#orange{
+
+	width: 300px;
+	height: 50px;
+}
+
+#ScheduleDemo{
+
+	width: 250px;
+	height: 50px;
+	background: #2f9ee4;
+	border-radius: 7px;
+}
+
+#FreeTrial{
+
+	width: 250px;
+	height: 50px;
+	background: #ea6b00;
+	border-radius: 7px;
+	margin-top: 10px;
+}
+
+#Dove{
+
+	color: white;
+	display: inline-block;
+	margin-bottom: 10px;
+	width: 245px;
+	height: 30px;
+	font-size: 115%;
+	margin-left: 30px;
+}
+
+#Owl{
+
+	color: white;
+	display: inline-block;
+	margin-bottom: 10px;
+	width: 245px;
+	height: 30px;
+	font-size: 125%;
+	margin-left: 55px;
+}
+
+#creditcard{
+
+	margin-left: 20px;
+	display: inline-block;
+	font-size: 100%;
+}
+
+#advert{
+
+	width: 250px;
+	display: inline-block;
+	margin-top: 20px;
+
+}
+
+h3{ 
+
+	font-family: 'arial'; 
+}
+
+h2{
+
+	font-family: 'arial';
+}
+
+p{
+
+	font-family: 'arial';
+}
+
+#cellphone{
+
+	width: 60px;
+	display: inline-block;
+	margin-left: 0px;
+	margin-bottom: 50px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+#inbetween{
+
+	/*width: auto;*/
+	height: 125px;
+	background: white;
+	vertical-align: top;
+	
+
+
+}
+
+
+
+#info{
+
+	width: 300px;
+	height: 150px;
+	background: white;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#international{
+
+	display: inline-block;
+	margin-bottom: 50px;
+	
+	font-family: 'arial';
+	color: grey;
+	vertical-align: top;
+
+}
+
+#phoneheader{
+
+	background: white;
+	height: 100px;
+	width: 200px;
+	display: inline-block;
+	margin-left: 300px;
+	vertical-align: top;
+}
+
+#house{
+
+	margin-top:20px;
+	display: inline-block;
+	height: 25px;
+}
+
+#goat{
+
+	font-style: italic;
+	color: grey;
+	margin-left: 2px;
+	margin-bottom: 100px;
+	vertical-align: 
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+}
+
+#phonebox{
+
+	width: 350px;
+	height: 125px;
+	background: white;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 550px;
+}
+
+
+#phonepic{
+
+	width: 65px;
+	height: 125px;
+	background:white;
+	display: inline-block;
+}
+
+#GetStartedTodayButton{
+
+	width: 300px;
+	height: 55px;
+	background: green;
+	border-radius: 20px;
+
+}
+
+#GST{
+
+	color: white;
+	
+	display: inline-block;
+	font-size: 100%;
+	margin-left: 50px;
+	margin-bottom: 10px;
+	font-family: 'arial';
+
+}
+
+
+#phonebox ul{
+
+	display: inline-block;
+	vertical-align: top;
+	list-style-type: none; 
+
+}
+
+.hours{
+
+	font-size: 100%;
+	font-family: 'arial';
+	font-style: italic;
+}
+
+#phonenumber{
+
+	font-size: 150%;
+	font-family: 'arial';
+}
+
+
+
+#container ul li{
+
+	list-style-type: square;
+
+}
+
+#container p{
+
+	font-family: 'arial';
+	font-size: 75%;
+}
+
+#container ul {
+
+	display: inline-block;
+}
+
+#login{
+
+	background: #147BBF;
+	height: 35px;
+	width: 85px;
+	border-radius: 10px;
+	display: inline-block;
+	margin-left: 450px;
+	border-style: inset;
+
+}
+
+#logintext{
+
+	color: white;
+	display: inline;
+
+	vertical-align: top;
+	margin-left: 20px;
+	margin-bottom: 0px;
+
+}
